@@ -1,0 +1,20 @@
+{
+  "name": "automation-test-assessment",
+  "version": "2.0.0",
+  "description": "Selenium + Playwright sample test suite for assessment (Herokuapp demo)",
+  "scripts": {
+    "test:selenium": "mocha ./src/tests/selenium --timeout 60000",
+    "test:playwright": "npx playwright test",
+    "test": "npm run test:selenium && npm run test:playwright"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.15.0",
+    "@playwright/test": "^1.45.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
