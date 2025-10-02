@@ -1,6 +1,5 @@
 ## Summary
 This version uses [The Internet app](https://the-internet.herokuapp.com) as the demo application.
-
 ### Selenium tests:
 - User login at `/login`
 - Adding and removing elements at `/add_remove_elements/`
