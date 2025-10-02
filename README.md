@@ -33,7 +33,7 @@ BASE_URL=https://the-internet.herokuapp.com
 npm run test:playwright
 
 ## Project structure
-```bash
+```
 /src
   /pages
     LoginPage.js
