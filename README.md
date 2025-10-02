@@ -33,6 +33,7 @@ BASE_URL=https://the-internet.herokuapp.com
 npm run test:playwright
 
 ## Project structure
+```bash
 /src
   /pages
     LoginPage.js
@@ -44,6 +45,7 @@ npm run test:playwright
   /utils
     utils.js
 .github/workflows/ci.yml
+```
 
 ## Notes
 - Default `BASE_URL` is `https://the-internet.herokuapp.com` if not provided.
