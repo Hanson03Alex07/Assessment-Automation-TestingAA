@@ -1,5 +1,3 @@
-# Automation Test Engineer - Technical Assessment (Updated v2)
-
 ## Summary
 This version uses [The Internet app](https://the-internet.herokuapp.com) as the demo application.
 
